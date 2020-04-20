@@ -1,0 +1,38 @@
+body {
+    background-color: #36B3DE
+}
+
+.main {
+    font-family: "Times New Roman";
+    text-align: center;
+}
+
+.buttonsAll {
+    display: flex;
+    border: 6px solid black;
+    border-style: double;
+    padding: 10px;
+    justify-content: space-evenly;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: "Times New Roman";
+    font-weight: bold;
+}
+
+iframe {
+    margin-left: auto;
+    margin-right: auto;
+    border-style: hidden;
+    display: flex;
+}
+
+* {
+    margin: 0;
+}
+
+canvas {
+    position: fixed;
+}

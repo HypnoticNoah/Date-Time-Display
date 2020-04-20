@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <title>Date/Time Display</title>
+
+</head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+<body>
+    <link rel="stylesheet" media="screen" href="style.css">
+    <div class="main">
+        <h1>Date/Time Display</h1>
+    </div>
+    <br>
+    <div class="buttonsAll">
+        <div class="date">
+            <button class="btn btn-primary" onclick="dateFunction()">Display Date</button>
+        </div>
+        <div class="time">
+            <button class="btn btn-success" onclick="timeFunction()">Display Time</button>
+        </div>
+        <div class="clock">
+            <button class="btn btn-warning" id="clock" onclick="clockFunction()">Display Clock</button>
+        </div>
+        <div class="reset">
+            <button class="btn btn-danger" onclick="resetFunction()">Reset Display</button>
+        </div>
+    </div>
+    <br>
+    <h2 class="div1"></h2>
+    <canvas></canvas>
+    <script type="text/javascript" src="clock.js"></script>
+    <script type="text/javascript" src="date.js"></script>
+    <script type="text/javascript" src="time.js"></script>
+    <script type="text/javascript" src="reset.js"></script>
+    <script type="text/javascript" src="jquery.js"></script>
+</body>
+
+</html>
