@@ -10,3 +10,9 @@ This is a simple script that uses jquery, JavaScript, an a live clock API. It gi
 
 # Dependencies 
 NONE - Just needs all the files that are included!
+
+# Notes 
+For the clock I used the following API
+*https://www.timeanddate.com/clocks/free.html*
+For the confetti I used the following code from CodePen
+*https://codepen.io/ma_suwa/pen/oNXxQxZ*
