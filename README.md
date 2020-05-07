@@ -4,7 +4,7 @@ This is a simple script that uses jquery, JavaScript, an a live clock API. It gi
 # Contact Me!
  If you have any questions/suggestions or any problems with my work, feel free to contact me via email or message me on discord!
 
-  Discord: *HypnoticNoah#0001*
+  Discord: *HypnoticNoah#1111*
 
   Email: *hypnoticnoah@gmail.com*
 
